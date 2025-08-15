@@ -50,7 +50,3 @@ To predict the percentage of marks a student is expected to score based on the n
 
 ---
 
-## ✅ Result
-
-The predicted score for a student who studies **9.25 hours/day** is:
-
